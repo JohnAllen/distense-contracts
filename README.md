@@ -42,7 +42,7 @@ Once you get past the initial code->testing phase and want to view your changes 
 ## Contribute
 
 - See #Install and #Usage
-- By contributing to this repo you will earn DID an Ethereum token that gives you governance and economic rights to Distense
+- By contributing to this repo you will earn DID an Ethereum token that gives you governance and economic rights over Distense
     - See instructions on how to submit your work there
 
 ## License
